@@ -1,1 +1,4 @@
-# FindFilesByNameOrContent
+.idea/**
+*.iml
+out/**
+target/**
